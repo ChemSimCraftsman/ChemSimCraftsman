@@ -38,8 +38,8 @@
 ---
 
 ## 📫 Connect with Me
-- 💼 [LinkedIn](https://www.linkedin.com)  
-- 📧 Email: your.email@example.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/amartya-sam-17b76224b)  
+- 📧 Email: amartyasam.02@gmail.com 
 - 🐙 GitHub: [ChemSimCraftsman](https://github.com/ChemSimCraftsman)  
 
 ---
