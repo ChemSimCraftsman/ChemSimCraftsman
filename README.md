@@ -8,23 +8,15 @@
 ## 🚀 Skills & Tools  
 
 <p align="center">
+  <!-- Programming -->
+  <img src="https://skillicons.dev/icons?i=python,git,github,linux,vscode,jupyter" /><br>
   
-  <!-- Programming & Tools -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <!-- Scientific Computing -->
+  <img src="https://skillicons.dev/icons?i=numpy,pandas,matplotlib,sklearn" /><br>
   
-  <!-- MD / Simulation -->
+  <!-- Simulation / Chemistry (custom) -->
   <img src="https://img.shields.io/badge/LAMMPS-007ACC?style=for-the-badge&logo=researchgate&logoColor=white" />
   <img src="https://img.shields.io/badge/Quantum%20Espresso-2C2D72?style=for-the-badge&logo=atom&logoColor=white" />
-  
-  <!-- Data Science / ML -->
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white" />
-  
 </p>
 
 ---
