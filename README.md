@@ -22,7 +22,7 @@
 ---
 
 ## 📂 Featured Projects
-- 🔹 [RDF_CODE](https://github.com/ChemSimCraftsman/RDF_CODE) → Python code for calculating radial distribution functions from MD trajectories.  
+- 🔹 [Materials Property from MD Trajectory_CODE](https://github.com/ChemSimCraftsman/CODE) → Python code for calculating properties of soft materials from MD trajectories.  
 - 🔹 [Thermo Property vs Timestep](https://github.com/ChemSimCraftsman/Thermo-Property-vs-Timestep) → Jupyter notebook to analyze energy, temperature, pressure vs simulation time.  
 - 🔹 [Quantum Espresso Notes](https://github.com/ChemSimCraftsman/espresso) → Tutorials and workflows for DFT calculations.  
 
@@ -39,7 +39,7 @@
 
 ## 📫 Connect with Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/amartya-sam-17b76224b)  
-- 📧 Email: amartyasam.02@gmail.com 
+- 📧 Email: amartya.jrf.che25@iitbhu.ac.in
 - 🐙 GitHub: [ChemSimCraftsman](https://github.com/ChemSimCraftsman)  
 
 ---
