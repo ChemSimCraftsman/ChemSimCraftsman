@@ -26,16 +26,6 @@
 - 🔹 [Thermo Property vs Timestep](https://github.com/ChemSimCraftsman/Thermo-Property-vs-Timestep) → Jupyter notebook to analyze energy, temperature, pressure vs simulation time.  
 - 🔹 [Quantum Espresso Notes](https://github.com/ChemSimCraftsman/espresso) → Tutorials and workflows for DFT calculations.  
 
----
-
-;## 📊 GitHub Stats  
-
-;<p align="center">
- ; <img src="https://github-readme-stats.vercel.app/api?username=ChemSimCraftsman&show_icons=true&theme=tokyonight" alt="stats" />
-  ;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChemSimCraftsman&layout=compact&theme=tokyonight" alt="languages" />
-;</p>
-
----
 
 ## 📫 Connect with Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/amartya-sam-17b76224b)  
